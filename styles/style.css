@@ -44,8 +44,16 @@ body {
   list-style: none;
 }
 
+.navigation__list a:hover {
+  color: rgb(62, 62, 62);
+}
+
 .login {
   margin-right: 20px;
+}
+
+.login:hover {
+  color: rgb(62, 62, 62);
 }
 
 .btn {
